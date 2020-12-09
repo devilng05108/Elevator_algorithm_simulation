@@ -1,0 +1,19 @@
+#requestBtn{
+    -fx-text-fill: white;
+    -fx-background-color: red
+}
+.root{
+    -fx-background-color:#414237
+}
+.label{
+    -fx-text-fill: #eeff38;
+    -fx-font-size: 15px
+}
+#reportBtn{
+    -fx-text-fill: white;
+    -fx-background-color: darkblue
+}
+#reportcolour{
+    -fx-text-fill: white;
+    -fx-background-color: #000000
+}
